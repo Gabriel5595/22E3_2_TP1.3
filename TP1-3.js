@@ -1,0 +1,1 @@
+alert("Olá, amigo! Falo do arquivo script.js.")
